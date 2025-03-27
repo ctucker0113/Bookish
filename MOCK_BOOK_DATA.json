@@ -1,0 +1,91 @@
+{
+  "-NjjUSLjJ0h_p8MSjsHM" :
+  {
+    "firebaseKey": "-NjjUSLjJ0h_p8MSjsHM",
+    "title": "Behind the Screen",
+    "author": "Cathie Klain",
+    "description": "Multi-level cat tree for play and scratching.",
+    "coverImage": "http://dummyimage.com/129x100.png/5fa2dd/ffffff"
+  },
+
+  "-NjjUSLlLwGgS9agx-zs" :
+  {
+    "firebaseKey": "-NjjUSLlLwGgS9agx-zs",
+    "title": "Iron Eagle",
+    "author": "Nedda Whittington",
+    "description": "Timeless black trousers for a smart and sophisticated look.",
+    "coverImage": "http://dummyimage.com/143x100.png/5fa2dd/ffffff"
+  },
+
+  "-NjjUSLmkVA11p9xEyYp" :
+  {
+    "firebaseKey": "-NjjUSLmkVA11p9xEyYp",
+    "title": "Darling",
+    "author": "Guillemette Verheijden",
+    "description": "A cozy long cardigan designed for layering in any season.",
+    "coverImage": "http://dummyimage.com/237x100.png/ff4444/ffffff"
+  },
+
+  "-NjjUSLnaeURdYZZbywA" :
+  {
+    "firebaseKey": "-NjjUSLnaeURdYZZbywA",
+    "title": "Harvard Man",
+    "author": "Brittaney Folkerts",
+    "description": "Set of reusable baking cups for muffins and cupcakes.",
+    "coverImage": "http://dummyimage.com/230x100.png/ff4444/ffffff"
+  },
+
+  "-NjjUSLpWAOFdVsySLYb":
+  {
+    "firebaseKey": "-NjjUSLpWAOFdVsySLYb",
+    "title": "Extremely Loud and Incredibly Close",
+    "author": "Dominga Ridgers",
+    "description": "Wi-Fi camera with motion detection for home security.",
+    "coverImage": "http://dummyimage.com/224x100.png/cc0000/ffffff"
+  },
+
+  "-NjjUSLjJ0h_p8MSj974" :
+  {
+    "firebaseKey": "-NjjUSLjJ0h_p8MSj974",
+    "title": "Old Acquaintance",
+    "author": "Osbourn Towers",
+    "description": "Frozen smoothie mix with bananas and peanut butter for a quick drink.",
+    "coverImage": "http://dummyimage.com/224x100.png/5fa2dd/ffffff"
+  },
+  
+  "-NjjUSLjJ0h_p8MSjsHN": 
+  {
+    "firebaseKey": "-NjjUSLjJ0h_p8MSjsHN",
+    "title": "Rafa",
+    "author": "Bernadine Kinkaid",
+    "description": "Crispy spring rolls filled with vegetables",
+    "coverImage": "http://dummyimage.com/113x100.png/5fa2dd/ffffff"
+  },
+
+  "-NjjUSLjJ0h_p8MSjsHO" :
+  {
+    "firebaseKey": "-NjjUSLjJ0h_p8MSjsHO",
+    "title": "Muppets, The",
+    "author": "Sandy Dady",
+    "description": "Creamy pumpkin soup with spices",
+    "coverImage": "http://dummyimage.com/250x100.png/ff4444/ffffff"
+  },
+
+  "-NjjUSLjJ0h_p8MSjsHP" : 
+  {
+    "id": 9,
+    "title": "It Felt Like Love",
+    "author": "Cleopatra Peyes",
+    "description": "A creamy and flavorful hummus made with roasted red peppers.",
+    "coverImage": "http://dummyimage.com/147x100.png/dddddd/000000"
+  },
+
+   "-NjjUSLjJ0h_p8MSjsHQ" :
+  {
+    "firebaseKey": 10,
+    "title": "Time Traveler's Wife, The",
+    "author": "Maude Borchardt",
+    "description": "A zesty salsa made with peaches and mangos, great for chips.",
+    "coverImage": "http://dummyimage.com/114x100.png/ff4444/ffffff"
+  }
+}
