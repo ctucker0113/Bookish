@@ -30,7 +30,7 @@ const getSingleAuthor = (firebaseKey) => new Promise((resolve, reject) => {
     .catch(reject);
 });
 
-  // Create New Author
+// Create New Author and immediately patch in the firebaseKey
 const createAuthor = (payload) => new Promise((resolve, reject) => {
   fetch(`${endpoint}/authors.json`, {
     method: 'POST',
@@ -40,7 +40,18 @@ const createAuthor = (payload) => new Promise((resolve, reject) => {
     body: JSON.stringify(payload),
   })
     .then((response) => response.json())
-    .then((data) => resolve((data)))
+
+    // After the Author object  is created, patch in the actual Firebase key for indexing.
+    .then((data) => {
+      const patchPayload = { firebaseKey: data.name }; // data.name is the generated key
+      return fetch(`${endpoint}/authors/${data.name}.json`, {
+        method: 'PATCH',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(patchPayload),
+      }).then(() => resolve({ ...payload, firebaseKey: data.name }));
+    })
     .catch(reject);
 });
 
