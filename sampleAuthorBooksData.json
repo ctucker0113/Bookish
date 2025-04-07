@@ -1,0 +1,62 @@
+{
+    "-OMtV08rm1xG0BRXlpsL": {
+        "firebaseKey": "-OMtV08rm1xG0BRXlpsL",
+        "authorID": "-0MtMDNYwVysLgj9hmYZ",
+        "bookID": "-0MtIf4are62HSuwu-kz"
+    },
+    "-OMtV08rm1xG0BRXlpsM": {
+        "firebaseKey": "-OMtV08rm1xG0BRXlpsM",
+        "authorID": "-0MtMDNYwVysLgj9hmYZ",
+        "bookID": "-0MtJ37QSVoP_n8zroBX"
+    },
+    "-Abc123authBook1": {
+        "firebaseKey": "-Abc123authBook1",
+        "authorID": "-Akjsd82jslFhajdl91",
+        "bookId": "-NjjUSLjJ0h_p8MSjsHM"
+    },
+    "-Abc123authBook2": {
+        "firebaseKey": "-Abc123authBook2",
+        "authorID": "-Fksh83JkdalYeqwqp82",
+        "bookId": "-NjjUSLlLwGgS9agx-zs"
+    },
+    "-Abc123authBook3": {
+        "firebaseKey": "-Abc123authBook3",
+        "authorID": "-Zlxjfa8FksUyqPQw12",
+        "bookId": "-NjjUSLmkVA11p9xEyYp"
+    },
+    "-Abc123authBook4": {
+        "firebaseKey": "-Abc123authBook4",
+        "authorID": "-Qow812kdjasPlmc93d",
+        "bookId": "-NjjUSLnaeURdYZZbywA"
+    },
+    "-Abc123authBook5": {
+        "firebaseKey": "-Abc123authBook5",
+        "authorID": "-Xms82lkjasOqw81nmd",
+        "bookId": "-NjjUSLpWAOFdVsySLYb"
+    },
+    "-Abc123authBook6": {
+        "firebaseKey": "-Abc123authBook6",
+        "authorID": "-Mqw812ljkajskd9182",
+        "bookId": "-NjjUSLjJ0h_p8MSj974"
+    },
+    "-Abc123authBook7": {
+        "firebaseKey": "-Abc123authBook7",
+        "authorID": "-Bqwe712Jx82lmas92w",
+        "bookId": "-NjjUSLjJ0h_p8MSjsHN"
+    },
+    "-Abc123authBook8": {
+        "firebaseKey": "-Abc123authBook8",
+        "authorID": "-Plskf81JmsalQwjs01",
+        "bookId": "-NjjUSLjJ0h_p8MSjsHO"
+    },
+    "-Abc123authBook9": {
+        "firebaseKey": "-Abc123authBook9",
+        "authorID": "-Lkasj28Jqwmsadklzx",
+        "bookId": "-NjjUSLjJ0h_p8MSjsHP"
+    },
+    "-Abc123authBook10": {
+        "firebaseKey": "-Abc123authBook10",
+        "authorID": "-Vmxpq91Jsadlmxq812",
+        "bookId": "-NjjUSLjJ0h_p8MSjsHQ"
+    }
+}

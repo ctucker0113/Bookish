@@ -1,91 +1,86 @@
 {
-  "-NjjUSLjJ0h_p8MSjsHM" :
-  {
+  "-NjjUSLjJ0h_p8MSjsHM": {
     "firebaseKey": "-NjjUSLjJ0h_p8MSjsHM",
     "title": "Behind the Screen",
-    "author": "Cathie Klain",
+    "authorID": "-Akjsd82jslFhajdl91",
     "description": "Multi-level cat tree for play and scratching.",
     "coverImage": "http://dummyimage.com/129x100.png/5fa2dd/ffffff"
   },
-
-  "-NjjUSLlLwGgS9agx-zs" :
-  {
+  "-NjjUSLlLwGgS9agx-zs": {
     "firebaseKey": "-NjjUSLlLwGgS9agx-zs",
     "title": "Iron Eagle",
-    "author": "Nedda Whittington",
+    "authorID": "-Fksh83JkdalYeqwqp82",
     "description": "Timeless black trousers for a smart and sophisticated look.",
     "coverImage": "http://dummyimage.com/143x100.png/5fa2dd/ffffff"
   },
-
-  "-NjjUSLmkVA11p9xEyYp" :
-  {
+  "-NjjUSLmkVA11p9xEyYp": {
     "firebaseKey": "-NjjUSLmkVA11p9xEyYp",
     "title": "Darling",
-    "author": "Guillemette Verheijden",
+    "authorID": "-Zlxjfa8FksUyqPQw12",
     "description": "A cozy long cardigan designed for layering in any season.",
     "coverImage": "http://dummyimage.com/237x100.png/ff4444/ffffff"
   },
-
-  "-NjjUSLnaeURdYZZbywA" :
-  {
+  "-NjjUSLnaeURdYZZbywA": {
     "firebaseKey": "-NjjUSLnaeURdYZZbywA",
     "title": "Harvard Man",
-    "author": "Brittaney Folkerts",
+    "authorID": "-Qow812kdjasPlmc93d",
     "description": "Set of reusable baking cups for muffins and cupcakes.",
     "coverImage": "http://dummyimage.com/230x100.png/ff4444/ffffff"
   },
-
-  "-NjjUSLpWAOFdVsySLYb":
-  {
+  "-NjjUSLpWAOFdVsySLYb": {
     "firebaseKey": "-NjjUSLpWAOFdVsySLYb",
     "title": "Extremely Loud and Incredibly Close",
-    "author": "Dominga Ridgers",
+    "authorID": "-Xms82lkjasOqw81nmd",
     "description": "Wi-Fi camera with motion detection for home security.",
     "coverImage": "http://dummyimage.com/224x100.png/cc0000/ffffff"
   },
-
-  "-NjjUSLjJ0h_p8MSj974" :
-  {
+  "-NjjUSLjJ0h_p8MSj974": {
     "firebaseKey": "-NjjUSLjJ0h_p8MSj974",
     "title": "Old Acquaintance",
-    "author": "Osbourn Towers",
+    "authorID": "-Mqw812ljkajskd9182",
     "description": "Frozen smoothie mix with bananas and peanut butter for a quick drink.",
     "coverImage": "http://dummyimage.com/224x100.png/5fa2dd/ffffff"
   },
-  
-  "-NjjUSLjJ0h_p8MSjsHN": 
-  {
+  "-NjjUSLjJ0h_p8MSjsHN": {
     "firebaseKey": "-NjjUSLjJ0h_p8MSjsHN",
     "title": "Rafa",
-    "author": "Bernadine Kinkaid",
+    "authorID": "-Bqwe712Jx82lmas92w",
     "description": "Crispy spring rolls filled with vegetables",
     "coverImage": "http://dummyimage.com/113x100.png/5fa2dd/ffffff"
   },
-
-  "-NjjUSLjJ0h_p8MSjsHO" :
-  {
+  "-NjjUSLjJ0h_p8MSjsHO": {
     "firebaseKey": "-NjjUSLjJ0h_p8MSjsHO",
     "title": "Muppets, The",
-    "author": "Sandy Dady",
+    "authorID": "-Plskf81JmsalQwjs01",
     "description": "Creamy pumpkin soup with spices",
     "coverImage": "http://dummyimage.com/250x100.png/ff4444/ffffff"
   },
-
-  "-NjjUSLjJ0h_p8MSjsHP" : 
-  {
-    "id": 9,
+  "-NjjUSLjJ0h_p8MSjsHP": {
+    "firebaseKey": "-NjjUSLjJ0h_p8MSjsHP",
     "title": "It Felt Like Love",
-    "author": "Cleopatra Peyes",
+    "authorID": "-Lkasj28Jqwmsadklzx",
     "description": "A creamy and flavorful hummus made with roasted red peppers.",
     "coverImage": "http://dummyimage.com/147x100.png/dddddd/000000"
   },
-
-   "-NjjUSLjJ0h_p8MSjsHQ" :
-  {
-    "firebaseKey": 10,
+  "-NjjUSLjJ0h_p8MSjsHQ": {
+    "firebaseKey": "-NjjUSLjJ0h_p8MSjsHQ",
     "title": "Time Traveler's Wife, The",
-    "author": "Maude Borchardt",
+    "authorID": "-Vmxpq91Jsadlmxq812",
     "description": "A zesty salsa made with peaches and mangos, great for chips.",
     "coverImage": "http://dummyimage.com/114x100.png/ff4444/ffffff"
+  },
+  "-0MtIf4are62HSuwu-kz" : {
+    "firebaseKey" : "-0MtIf4are62HSuwu-kz",
+    "title": "Harry Potter and the Deathly Hallows",
+    "authorID": "-0MtMDNYwVysLgj9hmYZ",
+    "description": "The final novel in the Harry Potter saga. (We don't talk about Cursed Child)",
+    "coverImage": "insert URL here"
+  },
+  "0MtJ37QSVoP_n8zroBX": {
+    "firebaseKey": "0MtJ37QSVoP_n8zroBX",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "authorID": "-0MtMDNYwVysLgj9hmYZ",
+    "description": "The book that started the phenomenon!",
+    "coverImage": "insert URL here"
   }
 }

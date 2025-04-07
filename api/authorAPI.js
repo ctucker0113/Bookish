@@ -2,7 +2,6 @@ import { clientCredentials } from "../utils/client";
 
 // URL TO DATABASE FOR PROMISES/API CALLS
 const endpoint = clientCredentials.databaseURL;
-// Get a Single Book by BookID firebaseKey
 
 // Get All Books in the Database
 const getAllAuthors = () => new Promise((resolve, reject) => {
@@ -69,9 +68,21 @@ const createAuthor = (payload) => new Promise((resolve, reject) => {
       .catch(reject);
   });
 
+  const deleteAuthor = (firebaseKey) => new Promise((resolve, reject) => {
+    fetch(`${endpoint}/authors/${firebaseKey}.json`, {
+      method: 'DELETE',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    }).then((response) => response.json())
+      .then((data) => resolve((data)))
+      .catch(reject);
+  });
+
 export {
   getAllAuthors,
   getSingleAuthor,
   createAuthor,
-  updateAuthor
+  updateAuthor,
+  deleteAuthor
 }
