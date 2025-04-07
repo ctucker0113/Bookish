@@ -35,7 +35,7 @@ const getAllTagsForABook = (bookID) => new Promise((resolve, reject) => {
 
 
         // Filter the returned bookTag data down to just the entries with a matching book ID.
-        const filteredTagLinks = Object.values(data).filter((entry) => entry.bookId === bookID);
+        const filteredTagLinks = Object.values(data).filter((entry) => entry.bookID === bookID);
 
         // Retrieve the tagID from the filtered bookTag objects and fetch the corresponding tags with those ID's.
         const tagFetches = filteredTagLinks.map((entry) =>

@@ -1,27 +1,27 @@
 {
   "-bookTag001": {
     "firebaseKey": "-bookTag001",
-    "bookId": "-NjjUSLjJ0h_p8MSjsHM", // Behind the Screen
-    "tagID": "-OMhzs3yV1QHwRYwILDt"   // Fantasy
+    "bookId": "-NjjUSLjJ0h_p8MSjsHM", 
+    "tagID": "-OMhzs3yV1QHwRYwILDt" 
   },
   "-bookTag002": {
     "firebaseKey": "-bookTag002",
-    "bookId": "-NjjUSLlLwGgS9agx-zs", // Iron Eagle
-    "tagID": "-OMhzs3z5zmBtqkQbyVF"   // Thriller
+    "bookId": "-NjjUSLlLwGgS9agx-zs", 
+    "tagID": "-OMhzs3z5zmBtqkQbyVF" 
   },
   "-bookTag003": {
     "firebaseKey": "-bookTag003",
-    "bookId": "-NjjUSLjJ0h_p8MSjsHO", // Muppets, The
-    "tagID": "-OMhzs3yV1QHwRYwILDu"   // Comedy
+    "bookId": "-NjjUSLjJ0h_p8MSjsHO", 
+    "tagID": "-OMhzs3yV1QHwRYwILDu" 
   },
   "-bookTag004": {
     "firebaseKey": "-bookTag004",
-    "bookId": "0MtJ37QSVoP_n8zroBX", // Harry Potter and the Sorcerer's Stone
-    "tagID": "-OMhzs3yV1QHwRYwILDt"   // Fantasy
+    "bookId": "0MtJ37QSVoP_n8zroBX", 
+    "tagID": "-OMhzs3yV1QHwRYwILDt" 
   },
   "-bookTag005": {
     "firebaseKey": "-bookTag005",
-    "bookId": "-NjjUSLjJ0h_p8MSjsHP", // It Felt Like Love
-    "tagID": "-OMhzs3xEU_4igvzHFr-"   // Romance
+    "bookId": "-NjjUSLjJ0h_p8MSjsHP",
+    "tagID": "-OMhzs3xEU_4igvzHFr-" 
   }
 }
