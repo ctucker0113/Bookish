@@ -1,0 +1,82 @@
+{
+  "-ONMCkswWG1rjL2-2L4U": {
+    "firebaseKey": "-ONMCkswWG1rjL2-2L4U",
+    "userID": "zlyU9JH1QzO8Pm0ocAfnUDHVp8d2",
+    "bookID": "-NjjUSLjJ0h_p8MSjsHM",
+    "isFavorite": true,
+    "wantToRead": false,
+    "userBookID": "zlyU9JH1QzO8Pm0ocAfnUDHVp8d2_-NjjUSLjJ0h_p8MSjsHM"
+  },
+  "-ONMCkswWG1rjL2-2L4V": {
+    "firebaseKey": "-ONMCkswWG1rjL2-2L4V",
+    "userID": "npDaKNN6H4bxO0H2ghxIgnsDzin2",
+    "bookID": "-NjjUSLlLwGgS9agx-zs",
+    "isFavorite": true,
+    "wantToRead": true,
+    "userBookID": "npDaKNN6H4bxO0H2ghxIgnsDzin2_-NjjUSLlLwGgS9agx-zs"
+  },
+  "-ONMCksxjIqXbIiQMcwY": {
+    "firebaseKey": "-ONMCksxjIqXbIiQMcwY",
+    "userID": "zlyU9JH1QzO8Pm0ocAfnUDHVp8d2",
+    "bookID": "-NjjUSLmkVA11p9xEyYp",
+    "isFavorite": true,
+    "wantToRead": true,
+    "userBookID": "zlyU9JH1QzO8Pm0ocAfnUDHVp8d2_-NjjUSLmkVA11p9xEyYp"
+  },
+  "-ONMCksxjIqXbIiQMcwZ": {
+    "firebaseKey": "-ONMCksxjIqXbIiQMcwZ",
+    "userID": "npDaKNN6H4bxO0H2ghxIgnsDzin2",
+    "bookID": "-NjjUSLnaeURdYZZbywA",
+    "isFavorite": false,
+    "wantToRead": false,
+    "userBookID": "npDaKNN6H4bxO0H2ghxIgnsDzin2_-NjjUSLnaeURdYZZbywA"
+  },
+  "-ONMCksyOKCFi4qPvAGS": {
+    "firebaseKey": "-ONMCksyOKCFi4qPvAGS",
+    "userID": "zlyU9JH1QzO8Pm0ocAfnUDHVp8d2",
+    "bookID": "-NjjUSLpWAOFdVsySLYb",
+    "isFavorite": true,
+    "wantToRead": true,
+    "userBookID": "zlyU9JH1QzO8Pm0ocAfnUDHVp8d2_-NjjUSLpWAOFdVsySLYb"
+  },
+  "-ONMCksyOKCFi4qPvAGT": {
+    "firebaseKey": "-ONMCksyOKCFi4qPvAGT",
+    "userID": "npDaKNN6H4bxO0H2ghxIgnsDzin2",
+    "bookID": "-NjjUSLjJ0h_p8MSj974",
+    "isFavorite": false,
+    "wantToRead": true,
+    "userBookID": "npDaKNN6H4bxO0H2ghxIgnsDzin2_-NjjUSLjJ0h_p8MSj974"
+  },
+  "-ONMCksyOKCFi4qPvAGU": {
+    "firebaseKey": "-ONMCksyOKCFi4qPvAGU",
+    "userID": "zlyU9JH1QzO8Pm0ocAfnUDHVp8d2",
+    "bookID": "-NjjUSLjJ0h_p8MSjsHN",
+    "isFavorite": false,
+    "wantToRead": true,
+    "userBookID": "zlyU9JH1QzO8Pm0ocAfnUDHVp8d2_-NjjUSLjJ0h_p8MSjsHN"
+  },
+  "-ONMCkszy9aqvKg5nRS2": {
+    "firebaseKey": "-ONMCkszy9aqvKg5nRS2",
+    "userID": "npDaKNN6H4bxO0H2ghxIgnsDzin2",
+    "bookID": "-NjjUSLjJ0h_p8MSjsHO",
+    "isFavorite": false,
+    "wantToRead": true,
+    "userBookID": "npDaKNN6H4bxO0H2ghxIgnsDzin2_-NjjUSLjJ0h_p8MSjsHO"
+  },
+  "-ONMCkszy9aqvKg5nRS3": {
+    "firebaseKey": "-ONMCkszy9aqvKg5nRS3",
+    "userID": "zlyU9JH1QzO8Pm0ocAfnUDHVp8d2",
+    "bookID": "-NjjUSLjJ0h_p8MSjsHP",
+    "isFavorite": true,
+    "wantToRead": false,
+    "userBookID": "zlyU9JH1QzO8Pm0ocAfnUDHVp8d2_-NjjUSLjJ0h_p8MSjsHP"
+  },
+  "-ONMCkt-5-rbfr0AdVmP": {
+    "firebaseKey": "-ONMCkt-5-rbfr0AdVmP",
+    "userID": "npDaKNN6H4bxO0H2ghxIgnsDzin2",
+    "bookID": "-NjjUSLjJ0h_p8MSjsHQ",
+    "isFavorite": false,
+    "wantToRead": true,
+    "userBookID": "npDaKNN6H4bxO0H2ghxIgnsDzin2_-NjjUSLjJ0h_p8MSjsHQ"
+  }
+}
